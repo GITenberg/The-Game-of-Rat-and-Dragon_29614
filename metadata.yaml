@@ -1,0 +1,32 @@
+_repo: The-Game-of-Rat-and-Dragon_29614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linebarger, Paul Myron Anthony
+    aliases:
+    - Linebarger, Paul M. A.
+    - Smith, Cordwainer
+    birthdate: 1913
+    deathdate: 1966
+    gutenberg_agent_id: '34034'
+    url: http://www.gutenberg.org/2009/agents/34034
+    wikipedia: http://en.wikipedia.org/wiki/Cordwainer_Smith
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Game of Rat and Dragon
+url: http://www.gutenberg.org/ebooks/29614
